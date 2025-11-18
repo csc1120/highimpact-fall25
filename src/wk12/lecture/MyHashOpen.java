@@ -29,6 +29,7 @@ public class MyHashOpen<K,V> implements PureMap<K,V> {
             index += table.length;
         }
         //first thing we might encounter?
+
         if(Objects.equals(table[index].key, key)){
             return index;
         } else if(table[index] == null){
