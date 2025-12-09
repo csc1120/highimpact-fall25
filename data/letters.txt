@@ -1,0 +1,6 @@
+Leela: 20
+Fry: 10
+Bender: 14
+Leela: 4
+Fry: 8
+Bender: 30
